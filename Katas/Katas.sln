@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python", "Python\Python.pyproj", "{BA30AD69-C8F2-4B40-A3DE-6B48CD08AADB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++", "C++\C++.vcxproj", "{B903EA95-0217-42EC-A44C-E7AA5563AB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA30AD69-C8F2-4B40-A3DE-6B48CD08AADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA30AD69-C8F2-4B40-A3DE-6B48CD08AADB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BA30AD69-C8F2-4B40-A3DE-6B48CD08AADB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BA30AD69-C8F2-4B40-A3DE-6B48CD08AADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA30AD69-C8F2-4B40-A3DE-6B48CD08AADB}.Release|x64.ActiveCfg = Release|Any CPU
+		{BA30AD69-C8F2-4B40-A3DE-6B48CD08AADB}.Release|x86.ActiveCfg = Release|Any CPU
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Debug|x64.ActiveCfg = Debug|x64
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Debug|x64.Build.0 = Debug|x64
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Debug|x86.ActiveCfg = Debug|Win32
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Debug|x86.Build.0 = Debug|Win32
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Release|x64.ActiveCfg = Release|x64
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Release|x64.Build.0 = Release|x64
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Release|x86.ActiveCfg = Release|Win32
+		{B903EA95-0217-42EC-A44C-E7AA5563AB43}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DC51C9-6DF5-47CA-8876-6ABA47DAD776}
+	EndGlobalSection
+EndGlobal
