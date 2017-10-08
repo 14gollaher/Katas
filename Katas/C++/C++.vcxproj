@@ -23,7 +23,7 @@
     <ProjectGuid>{B903EA95-0217-42EC-A44C-E7AA5563AB43}</ProjectGuid>
     <RootNamespace>C</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
-    <ProjectName>CPlusPlus</ProjectName>
+    <ProjectName>C++</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -113,6 +113,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="HelloWorld.cpp" />
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HelloWorld.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

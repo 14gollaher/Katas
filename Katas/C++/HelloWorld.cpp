@@ -1,7 +1,8 @@
 // https://open.kattis.com/problems/hello
 #include <iostream>
 
-int main()
+void HelloWorld()
 {
     std::cout << "Hello World!";
+    int x;
 }
