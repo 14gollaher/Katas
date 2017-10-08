@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ba30ad69-c8f2-4b40-a3de-6b48cd08aadb</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2048.py</StartupFile>
+    <StartupFile>ABC.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="2048.py" />
+    <Compile Include="ABC.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
