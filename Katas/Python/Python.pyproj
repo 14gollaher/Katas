@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ba30ad69-c8f2-4b40-a3de-6b48cd08aadb</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TakeTwoStones.py</StartupFile>
+    <StartupFile>DiagonalDifference.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,6 +24,15 @@
   <ItemGroup>
     <Compile Include="2048.py" />
     <Compile Include="ABC.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AVeryBigSum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompareTheTriplets.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DiagonalDifference.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="TakeTwoStones.py">
