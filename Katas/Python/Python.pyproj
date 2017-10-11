@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ba30ad69-c8f2-4b40-a3de-6b48cd08aadb</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>DiagonalDifference.py</StartupFile>
+    <StartupFile>ATaleOfTwoStacks.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,13 +26,22 @@
     <Compile Include="ABC.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ATaleOfTwoStacks.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="AVeryBigSum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BalancedBrackets.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="CompareTheTriplets.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="DiagonalDifference.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="IceCreamParlor.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="TakeTwoStones.py">
